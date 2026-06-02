@@ -105,4 +105,3 @@ If you have any suggestions or feedback about my portfolio, feel free to open an
 
 ---
 
-## Page Link - https://suryapratap0773.github.io/Surya-s-Portfolio/
